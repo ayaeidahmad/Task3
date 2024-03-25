@@ -655,15 +655,15 @@
     }
     .section2 .images img
     {
-        width: 80px;
-        transform: translate(38%,18%);
+        width: 100px;
+        transform: translate(40%,10%);
     }
     .section2 .images .images1 .img1 , .section2 .images .images1 .img2,
     .section2 .images .images1 .img3,.section2 .images .images2 .img4,
     .section2 .images .images2 .img5,.section2 .images .images2 .img6
     {
-        width: 140px;
-        height: 110px;
+        width: 180px;
+        height: 120px;
         margin-bottom: 10px;
     }
     .section3 .about-me .about-me2{
